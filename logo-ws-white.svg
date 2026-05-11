@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220" fill="none">
+  <!-- Diamond frame -->
+  <g transform="translate(100,95) rotate(45)">
+    <rect x="-62" y="-62" width="124" height="124" stroke="rgba(255,255,255,0.8)" stroke-width="2.5" fill="none" rx="2"/>
+  </g>
+
+  <!-- Balance/Scale -->
+  <g stroke="rgba(255,255,255,0.8)" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="100" y1="52" x2="100" y2="68"/>
+    <polygon points="100,52 95,58 105,58" fill="rgba(255,255,255,0.8)" stroke="none"/>
+    <line x1="72" y1="68" x2="128" y2="68"/>
+    <line x1="72" y1="68" x2="72" y2="90"/>
+    <line x1="128" y1="68" x2="128" y2="90"/>
+    <path d="M60,90 Q66,100 72,90 Q78,100 84,90" fill="none"/>
+    <ellipse cx="72" cy="100" rx="14" ry="4" fill="none"/>
+    <line x1="60" y1="90" x2="58" y2="100"/>
+    <line x1="84" y1="90" x2="86" y2="100"/>
+    <path d="M116,90 Q122,100 128,90 Q134,100 140,90" fill="none"/>
+    <ellipse cx="128" cy="100" rx="14" ry="4" fill="none"/>
+    <line x1="116" y1="90" x2="114" y2="100"/>
+    <line x1="140" y1="90" x2="142" y2="100"/>
+  </g>
+
+  <!-- W letter -->
+  <text x="48" y="130" font-family="'Playfair Display', Georgia, serif" font-weight="700" font-size="52" fill="#ffffff" text-anchor="middle">W</text>
+
+  <!-- S letter -->
+  <text x="152" y="130" font-family="'Playfair Display', Georgia, serif" font-weight="700" font-size="52" fill="#ffffff" text-anchor="middle">S</text>
+
+  <!-- MPU BERATUNG subtitle -->
+  <text x="100" y="200" font-family="'Source Sans 3', system-ui, sans-serif" font-weight="400" font-size="14" fill="rgba(255,255,255,0.6)" text-anchor="middle" letter-spacing="4">MPU BERATUNG</text>
+</svg>
